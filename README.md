@@ -1,0 +1,1 @@
+A small sample to show how you can display skeleton data provided by the zigFu framework
